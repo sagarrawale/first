@@ -1,2 +1,3 @@
-"function that will retrun only current date"
-"function curent year"
+"function that will return only current date"
+"function current year"
+"Function that will return the current month"
